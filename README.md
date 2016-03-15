@@ -2,6 +2,8 @@
 
 An example of the reference table being converted can be found here: http://www.ons.gov.uk/businessindustryandtrade/constructionindustry/datasets/outputintheconstructionindustry
 
+Please note. We use github for versioning purposes only. If anyone wants the actual data created by this process it will always be easily accessible via the ONS wensite (www.ons.gov.uk) and API service.
+
 
 ## Setup & Prep
 1.) Download this repository with the "download ZIP" button.
@@ -14,7 +16,7 @@ An example of the reference table being converted can be found here: http://www.
 
 ![alt tag](/images/cross.png)
 
-The easiest way to do this is to do a replace all (against the whole worksheet) with MS Excel.
+The easiest way to do this is to do a replace all (against the whole workbook) with MS Excel.
 
 ![alt tag](/images/replace.png)
 

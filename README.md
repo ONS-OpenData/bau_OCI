@@ -4,11 +4,11 @@ An example of the reference table being converted can be found here: http://www.
 
 
 ## Setup & Prep
-1.) Download the contents of this page with the "download as a zip" button.
+1.) Download this repository with the "download ZIP" button.
 
 2.) Unzip everything into its own folder.
 
-3.) Add your reference table to that folder.
+3.) Drop the reference table to be converted into that folder.
 
 4.) Open up the reference table and manually remove any cross symbols from the spreadhseet. You can use excels replace all function to do this (see screenshot below):
 

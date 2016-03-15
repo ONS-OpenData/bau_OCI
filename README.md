@@ -12,7 +12,7 @@ Please note. We use github for versioning purposes only. If anyone wants the act
 
 3.) Drop the reference table to be converted into that folder.
 
-4.) Open up the reference table and manually remove any cross symbols from the spreadhseet (databaker is having issues with these at the moment).
+4.) Open up the reference table and manually remove any cross symbols from the spreadsheet (databaker is having issues with these at the moment).
 
 ![alt tag](/images/cross.png)
 

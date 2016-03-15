@@ -1,0 +1,175 @@
+(dp0
+S'dim_item_id_1'
+p1
+cnumpy.core.multiarray
+_reconstruct
+p2
+(cnumpy
+ndarray
+p3
+(I0
+tp4
+S'b'
+p5
+tp6
+Rp7
+(I1
+(L3L
+tp8
+cnumpy
+dtype
+p9
+(S'O8'
+p10
+I0
+I1
+tp11
+Rp12
+(I3
+S'|'
+p13
+NNNI-1
+I-1
+I63
+tp14
+bI00
+(lp15
+S'Seasonally adjusted'
+p16
+aS'Non-seasonally adjusted'
+p17
+aS''
+p18
+atp19
+bsS'dim_item_id_2'
+p20
+g2
+(g3
+(I0
+tp21
+g5
+tp22
+Rp23
+(I1
+(L3L
+tp24
+g12
+I00
+(lp25
+S'Volume'
+p26
+aS'Value, current prices'
+p27
+ag18
+atp28
+bsS'dim_item_id_3'
+p29
+g2
+(g3
+(I0
+tp30
+g5
+tp31
+Rp32
+(I1
+(L19L
+tp33
+g12
+I00
+(lp34
+S'New Housing Public  '
+p35
+aS'New Housing Private  '
+p36
+aS'Total Housing   '
+p37
+aS'Other New Work Infrastructure  '
+p38
+aS'Other New Work Excluding Infrastructure Public '
+p39
+aS'Other New Work Excluding Infrastructure Private Industrial '
+p40
+aS'Other New Work Excluding Infrastructure Private Commercial '
+p41
+aS'All New Work   '
+p42
+aS'Repair and Maintenance Housing Public '
+p43
+aS'Repair and Maintenance Housing Private '
+p44
+aS'Repair and Maintenance Housing Total '
+p45
+aS'Repair and Maintenance Non Housing R&M  '
+p46
+aS'All Repair and Maintenance   '
+p47
+aS'All Work   '
+p48
+aS'Repair and Maintenance Total  '
+p49
+aS'Repair and Maintenance Other Work Public '
+p50
+aS'Repair and Maintenance Other Work Private '
+p51
+aS'Repair and Maintenance Infrastructure  '
+p52
+ag18
+atp53
+bsS'dim_id_3'
+p54
+g2
+(g3
+(I0
+tp55
+g5
+tp56
+Rp57
+(I1
+(L2L
+tp58
+g12
+I00
+(lp59
+S'Construction Sectors'
+p60
+ag18
+atp61
+bsS'dim_id_2'
+p62
+g2
+(g3
+(I0
+tp63
+g5
+tp64
+Rp65
+(I1
+(L2L
+tp66
+g12
+I00
+(lp67
+S'Value / Volume'
+p68
+ag18
+atp69
+bsS'dim_id_1'
+p70
+g2
+(g3
+(I0
+tp71
+g5
+tp72
+Rp73
+(I1
+(L2L
+tp74
+g12
+I00
+(lp75
+S'SA / SNA'
+p76
+ag18
+atp77
+bs.

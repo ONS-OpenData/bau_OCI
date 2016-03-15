@@ -1,0 +1,145 @@
+(dp0
+S'dim_id_2'
+p1
+cnumpy.core.multiarray
+_reconstruct
+p2
+(cnumpy
+ndarray
+p3
+(I0
+tp4
+S'b'
+p5
+tp6
+Rp7
+(I1
+(L2L
+tp8
+cnumpy
+dtype
+p9
+(S'O8'
+p10
+I0
+I1
+tp11
+Rp12
+(I3
+S'|'
+p13
+NNNI-1
+I-1
+I63
+tp14
+bI00
+(lp15
+S'Construction Sectors'
+p16
+aS''
+p17
+atp18
+bsS'dim_id_1'
+p19
+g2
+(g3
+(I0
+tp20
+g5
+tp21
+Rp22
+(I1
+(L2L
+tp23
+g12
+I00
+(lp24
+S'Region'
+p25
+ag17
+atp26
+bsS'dim_item_id_1'
+p27
+g2
+(g3
+(I0
+tp28
+g5
+tp29
+Rp30
+(I1
+(L12L
+tp31
+g12
+I00
+(lp32
+S'NORTH EAST'
+p33
+aS'YORKSHIRE AND THE HUMBER'
+p34
+aS'EAST MIDLANDS'
+p35
+aS'EAST OF ENGLAND'
+p36
+aS'LONDON'
+p37
+aS'SOUTH EAST'
+p38
+aS'SOUTH WEST'
+p39
+aS'WALES'
+p40
+aS'WEST MIDLANDS'
+p41
+aS'NORTH WEST'
+p42
+aS'SCOTLAND'
+p43
+ag17
+atp44
+bsS'dim_item_id_2'
+p45
+g2
+(g3
+(I0
+tp46
+g5
+tp47
+Rp48
+(I1
+(L15L
+tp49
+g12
+I00
+(lp50
+S'New Housing Public '
+p51
+aS'New Housing Private '
+p52
+aS'Total Housing  '
+p53
+aS'Other New Work Infrastructure '
+p54
+aS'Other New Work Excluding Infrastructure Public'
+p55
+aS'Other New Work Excluding Infrastructure Private Industrial'
+p56
+aS'Other New Work Excluding Infrastructure Private Commercial'
+p57
+aS'All New Work  '
+p58
+aS'Repair and Maintenance Housing '
+p59
+aS'Repair and Maintenance Other Work Public'
+p60
+aS'Repair and Maintenance Other Work Private'
+p61
+aS'All Repair and Maintenance  '
+p62
+aS'All Work  '
+p63
+aS'Repair and Maintenance Infrastructure '
+p64
+ag17
+atp65
+bs.

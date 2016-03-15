@@ -1,0 +1,131 @@
+(dp0
+S'dim_id_1'
+p1
+cnumpy.core.multiarray
+_reconstruct
+p2
+(cnumpy
+ndarray
+p3
+(I0
+tp4
+S'b'
+p5
+tp6
+Rp7
+(I1
+(L2L
+tp8
+cnumpy
+dtype
+p9
+(S'O8'
+p10
+I0
+I1
+tp11
+Rp12
+(I3
+S'|'
+p13
+NNNI-1
+I-1
+I63
+tp14
+bI00
+(lp15
+S'Type'
+p16
+aS''
+p17
+atp18
+bsS'dim_item_id_1'
+p19
+g2
+(g3
+(I0
+tp20
+g5
+tp21
+Rp22
+(I1
+(L37L
+tp23
+g12
+I00
+(lp24
+S'PUBLIC HOUSING'
+p25
+aS'PRIVATE HOUSING'
+p26
+aS'INFRASTRUCTURE Water'
+p27
+aS'INFRASTRUCTURE Sewerage'
+p28
+aS'INFRASTRUCTURE Electricity'
+p29
+aS'INFRASTRUCTURE Roads'
+p30
+aS'INFRASTRUCTURE Railways'
+p31
+aS'INFRASTRUCTURE Harbours'
+p32
+aS'INFRASTRUCTURE Other'
+p33
+aS'INFRASTRUCTURE TOTAL'
+p34
+aS'INFRASTRUCTURE of which - public'
+p35
+aS'INFRASTRUCTURE - private'
+p36
+aS'OTHER PUBLIC NON-HOUSING Factories'
+p37
+aS'OTHER PUBLIC NON-HOUSING Warehouses'
+p38
+aS'OTHER PUBLIC NON-HOUSING Oil, Steel, Coal'
+p39
+aS'OTHER PUBLIC NON-HOUSING Schools & Colleges'
+p40
+aS'OTHER PUBLIC NON-HOUSING Universities'
+p41
+aS'OTHER PUBLIC NON-HOUSING Health'
+p42
+aS'OTHER PUBLIC NON-HOUSING Offices'
+p43
+aS'OTHER PUBLIC NON-HOUSING Entertainment'
+p44
+aS'OTHER PUBLIC NON-HOUSING Garages, Shops'
+p45
+aS'OTHER PUBLIC NON-HOUSING Agriculture, Miscellaneous'
+p46
+aS'OTHER PUBLIC NON-HOUSING TOTAL'
+p47
+aS'PRIVATE INDUSTRIAL Factories'
+p48
+aS'PRIVATE INDUSTRIAL Warehouses'
+p49
+aS'PRIVATE INDUSTRIAL Oil, Steel, Coal'
+p50
+aS'PRIVATE INDUSTRIAL TOTAL'
+p51
+aS'PRIVATE COMMERCIAL Schools, Universities'
+p52
+aS'PRIVATE COMMERCIAL Health'
+p53
+aS'PRIVATE COMMERCIAL Offices'
+p54
+aS'PRIVATE COMMERCIAL Entertainment'
+p55
+aS'PRIVATE COMMERCIAL Garages'
+p56
+aS'PRIVATE COMMERCIAL Shops'
+p57
+aS'PRIVATE COMMERCIAL Agriculture, Miscellaneous'
+p58
+aS'PRIVATE COMMERCIAL TOTAL'
+p59
+aS'TOTAL NEW WORK'
+p60
+ag17
+atp61
+bs.

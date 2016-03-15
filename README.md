@@ -22,7 +22,7 @@ The easiest way to do this is to do a replace all (against the whole workbook) w
 
 
 ## Usage
-1.) Double click the "click to run on windows" file.
+1.) Double click the "Launch me from windows" file.
 
 2.) Select your reference table then run.
 

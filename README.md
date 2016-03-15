@@ -10,7 +10,14 @@ An example of the reference table being converted can be found here: http://www.
 
 3.) Drop the reference table to be converted into that folder.
 
-4.) Open up the reference table and manually remove any cross symbols from the spreadhseet (databker is having issues with these). You can use excels replace all function to do this as shown below:
+4.) Open up the reference table and manually remove any cross symbols from the spreadhseet (databaker is having issues with these at the moment).
+
+![alt tag](/images/cross.png)
+
+The easiest way to do this is to do a replace all (against the whole worksheet) with MS Excel.
+
+![alt tag](/images/replace.png)
+
 
 ## Usage
 1.) Double click the "click to run on windows" file.

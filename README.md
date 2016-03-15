@@ -18,5 +18,5 @@ An example of the reference table being converted can be found here: http://www.
 2.) Select your reference table then run.
 
 ## Notes:
-The script has built in integrity and validation checks (is it a sound file, does it have the correct dimensions). IF there are any problems it should point you in teh right direction.
+The script has built in integrity and validation checks (is it a sound file, does it have the correct dimensions). IF there are any problems it should point you in the right direction.
 

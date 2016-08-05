@@ -29,6 +29,10 @@ The easiest way to do this is to do a replace all (against the whole workbook) w
 ## Notes:
 The script has built in integrity and validation checks (is it a sound file? does it have the correct dimensions etc). IF there are any problems they should point you in the right direction.
 
+If needed, here is a summary of which tabs within the spreadsheet equate to which datasets:
+
+![alt tag](/images/tabs.png)
+
 ## Structure
 
 This recipe is intended for use with a very specific legacy output structure. If you're a visitor and running (I wouldnt advise it - use the demo), you'll need to use the WDA structure_csv_user.py file stored elsewherer on our github.

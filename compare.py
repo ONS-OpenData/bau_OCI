@@ -11,7 +11,6 @@ Compares the dimensions and dimension items within a CSV and a Check_file (.chk 
 import pandas as pd
 import sys
 import numpy as np
-import check_file as chk
 
 
 """

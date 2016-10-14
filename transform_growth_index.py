@@ -20,7 +20,7 @@ obs_file = pd.read_csv(load_file)
 # Get rid of footer
 obs_file = obs_file[obs_file['observation'] != '*********']
 
-# tidy dimensions 1. Get rod of rogue mid-cell value whistespace
+# tidy dimensions 1. Get rid of rogue mid-cell value whitespace
 obs_file['dim_item_id_1'] = obs_file['dim_item_id_1'].astype(str)
 obs_file['dim_item_id_1'] = obs_file['dim_item_id_1'].map(lambda x: x.strip())
 obs_file['dim_item_id_1'] = obs_file['dim_item_id_1'].map(lambda x: ' '.join(x.split()))

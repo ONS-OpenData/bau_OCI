@@ -14,7 +14,7 @@ def per_tab(tab):
     
     table_label = tab.excel_ref("C2").parent()
     
-    if not table_label.filter(contains_string("NON-SEASONAL")):
+    if table_label.filter(contains_string("NON-SEASONAL")):
         tab.dimension("SA / SNA", "Non-seasonally adjusted")
     else:
         tab.dimension("SA / SNA", "Seasonally adjusted")
